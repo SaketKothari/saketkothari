@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-kothari/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SaketKothari)
 [![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saketkothari.vercel.app/)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/saket_kothari)
 
 - 🧠 &nbsp; I’m currently learning FullStack Development
 - ⚡ &nbsp; I’m looking to collaborate with other developers
