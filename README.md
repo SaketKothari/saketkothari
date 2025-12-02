@@ -52,10 +52,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes Works: An Architectural Overview
-  ](https://saketkothari.medium.com/how-kubernetes-works-an-architectural-overview-5062aa42d921)
-- [Feature Flags: The Hidden Power Every App Should Have
-](https://saketkothari.medium.com/feature-flags-the-hidden-power-every-app-should-have-bff760181734)
+- [Designing a Scalable Notification System: From Basics to Fan-Out Architectures
+  ](https://saketkothari.medium.com/designing-a-scalable-notification-system-from-basics-to-fan-out-architectures-c7d33e85ed40)
+- [How UPI Works: The Complete Guide to India’s Revolutionary Payment System
+](https://saketkothari.medium.com/how-upi-works-the-complete-guide-to-indias-revolutionary-payment-system-463a1f0f820d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@saketkothari)
