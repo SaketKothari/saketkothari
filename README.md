@@ -1,13 +1,16 @@
 ### Hi there, I'm Saket Kothari 👋
 
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/saket_kothari)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/saket_kothari8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saketkothari98@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-kothari/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SaketKothari)
 [![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saketkothari.vercel.app/)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/saket_kothari)
 
-- 🧠 &nbsp; I’m currently learning FullStack Development
+
+</p>
+
+- 🧠 &nbsp; I’m currently learning Gen AI & system design :)
 - ⚡ &nbsp; I’m looking to collaborate with other developers
 - 🥅 &nbsp; Future Goals: Contribute more to Open Source projects
 - 🚴 &nbsp; Fun fact: I love cycling
